@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "lib": ["ESNext", "dom", "dom.iterable"],
+    "module": "esnext",
+    "moduleResolution": "Node",
+    "skipLibCheck": true,
+    "sourceMap": false,
+    "strict": true,
+    "target": "esnext"
+  }
+}
